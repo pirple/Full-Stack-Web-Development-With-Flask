@@ -1,0 +1,25 @@
+# Terminal Basic Commands and Symbols
+
+mkdir "Create folder/directory"
+
+cd "Access folder/directory"
+
+rm "removes file"
+
+mv "moves file"
+
+cp "copy file"
+
+. "current directory"
+
+.. "previous directory"
+
+* "all"
+
+
+# Links for setting up terminals in Windows 7 and Mac
+(Windows 10 should follow the video based instructions in the course instead)
+
+https://www.instructables.com/id/Introduction-38/
+
+https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-macos
